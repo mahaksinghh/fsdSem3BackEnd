@@ -1,8 +1,0 @@
-Day 1:
-Git command 
-git init
-git add README.md
-git commit -m "Git command txt"
-git branch -M main
-git remote add origin https://github.com/mahaksinghh/fsdSem3BackEnd.git
-git push -u origin main
