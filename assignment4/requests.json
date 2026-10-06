@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "studentName": "Mahak Singh",
+    "email": "mahaksinghh17@gmail.com",
+    "category": "Technical",
+    "description": "WiFi is not working in the computer lab",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "studentName": "Kunal Singh",
+    "email": "kunalsingh20.2k25@gmail.com",
+    "category": "Hostel",
+    "description": "water quality is low",
+    "priority": "High"
+  }
+]
